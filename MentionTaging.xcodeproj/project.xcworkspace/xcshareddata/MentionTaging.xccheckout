@@ -5,34 +5,44 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D521B6A8-C3A0-4F77-BD1A-3731B0EFD129</string>
+	<string>4D1BFDAE-B155-407A-A5AA-A3022A4C9A23</string>
 	<key>IDESourceControlProjectName</key>
 	<string>MentionTaging</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AB6F6004-4479-4C00-9563-027527F43AF9</key>
-		<string>https://github.com/iOsNeelShah/UIWindowLevel.git</string>
+		<key>5FDA46C6-7B78-404D-B767-964ADCDE3D6E</key>
+		<string>https://github.com/iOsNeelShah/MentionTaging.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MentionTaging/MentionTaging.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AB6F6004-4479-4C00-9563-027527F43AF9</key>
+		<key>1EB9C8EC-349B-4C48-A17B-3037347F8EBD</key>
 		<string>../../..</string>
+		<key>5FDA46C6-7B78-404D-B767-964ADCDE3D6E</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/iOsNeelShah/UIWindowLevel.git</string>
+	<string>https://github.com/iOsNeelShah/MentionTaging.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AB6F6004-4479-4C00-9563-027527F43AF9</string>
+	<string>1EB9C8EC-349B-4C48-A17B-3037347F8EBD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AB6F6004-4479-4C00-9563-027527F43AF9</string>
+			<string>5FDA46C6-7B78-404D-B767-964ADCDE3D6E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MentionTaging</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1EB9C8EC-349B-4C48-A17B-3037347F8EBD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MyPOC</string>
 		</dict>
